@@ -1,2 +1,2 @@
 # Intention-Detection
-Product Adoption Intention Detection
+Product Adoption Intention Detection Dataset
